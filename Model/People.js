@@ -1,7 +1,4 @@
 class People {
-  constructor() {
-    this.data
-  }
   handle(data) {
     this.data = data
     return {
