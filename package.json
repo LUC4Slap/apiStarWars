@@ -1,0 +1,25 @@
+{
+  "name": "apistarwars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LUC4Slap/apiStarWars.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LUC4Slap/apiStarWars/issues"
+  },
+  "homepage": "https://github.com/LUC4Slap/apiStarWars#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
